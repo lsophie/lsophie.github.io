@@ -17,3 +17,11 @@ h3 {
 .likes li {
 	color: blue;
 }
+
+.facts li {
+	color: pink;
+}
+
+label {
+	color: orange;
+}
