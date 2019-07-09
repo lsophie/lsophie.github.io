@@ -62,13 +62,13 @@
   <form action="input.html" method="get">
     <h3>Provide some feedback!</h3>
     <label for="name">Name</label>
-    <input type="text" name="name" id="name" value="Ralph Wiggum">
+    <input type="text" name="name" id="name" placeholder="Ralph Wiggum">
     <br>
     <label for="age">Age</label>
-    <input id="age" name="age" type="number" value="8" step="1">
+    <input id="age" name="age" type="number" placeholder="8" step="1">
     <br>
     <label for="email">Email</label>
-    <input type="email" name="email" id="email" value="ralph@simpsons.com">
+    <input type="email" name="email" id="email" placeholder="ralph@simpsons.com">
     <br>
     <label for="fan">How much do you like Ralph?</label>
     <br>
@@ -101,7 +101,7 @@
     <br>
     <label for="country">Where were you born</label>
     <input id="country" name="country" list="countries">
-    <datalist id="country">
+    <datalist id="countries">
       <option value="USA"></option>
       <option value="UK"></option>
       <option value="Singapore"</option>
@@ -109,8 +109,8 @@
     </datalist>
       
     <br>
-    <label for="message">Feedback</label>
-    <textarea name="message" id="message" rows="5" cols="30"><Write your message here!</textarea>
+    <label for="message">Feedback</label><br>
+    <textarea name="message" id="message" rows="5" cols="30">Write your message here!</textarea>
     <br>
       <input type="submit" value="Submit">
   </form>
