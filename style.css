@@ -29,6 +29,6 @@ label {
 }
 
 p {
-	background-image: url("https://res.cloudinary.com/teepublic/image/private/s--N36M1bhQ--/t_Preview/b_rgb:ffffff,t_Watermark/c_limit,f_jpg,h_630,q_90,w_630/v1483000527/production/designs/1002501_1.jpg");
+	background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/soccer.jpeg");
 	color: Navy;
 }
