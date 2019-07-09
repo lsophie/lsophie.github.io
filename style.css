@@ -8,3 +8,12 @@ h3 {
 	color: teal;
 	font-family: cursive;
 }
+
+.class {
+	color: purple;
+	font-family: Georgia;
+}
+
+h1 li {
+	color: blue;
+}
