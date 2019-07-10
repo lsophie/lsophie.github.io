@@ -21,11 +21,17 @@ body {
 	font-size: 60px;
 	color: white;
 }
+#links {
+	text-align: center;
+	display: inline;
+}
 
 #links a {
-	display: inline;
-	text-align: center;
 	font-size: 25px;
 	font-family: Aileron-Light;
 	color: white;
+}
+
+.boxed {
+	border: 1px white;
 }
