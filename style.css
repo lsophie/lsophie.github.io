@@ -23,6 +23,7 @@ body {
 }
 
 #links a {
+	display: inline;
 	text-align: center;
 	font-size: 25px;
 	font-family: Aileron-Light;
