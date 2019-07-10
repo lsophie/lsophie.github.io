@@ -1,8 +1,10 @@
 body {
 	background-image: url("./background-beach-clouds-937782.jpg");
+	background-size: cover;
 }
 
 #title {
 	text-align: center;
 	font-size: 80px;
+	color: black;
 }
