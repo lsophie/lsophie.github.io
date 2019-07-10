@@ -32,6 +32,6 @@ body {
 	color: white;
 }
 
-.boxed {
+a:link, a:visited {
 	border: 1px white;
 }
