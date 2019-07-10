@@ -4,6 +4,12 @@ src: url("aileron/Aileron-Light.otf");
 font-weight: normal;  
 }
 
+@font-face {
+font-family: Aileron-Thin;  
+src: url("aileron/Aileron-Thin.otf");  
+font-weight: normal;  
+}
+
 body {
 	background-image: url("./background-beach-clouds-937782.jpg");
 	background-size: cover;
@@ -11,12 +17,12 @@ body {
 
 #title {
 	text-align: center;
-	font-family: Aileron-Light;
+	font-family: Aileron-Thin;
 	font-size: 60px;
 	color: white;
 }
 
-#links {
+#links a {
 	text-align: center;
 	font-size: 25px;
 	font-family: Aileron-Light;
