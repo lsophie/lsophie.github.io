@@ -1,3 +1,9 @@
+@font-face {
+font-family: Aileron-Light;  
+src: url("aileron/aileron-light.otf");  
+font-weight: normal;  
+}
+
 body {
 	background-image: url("./background-beach-clouds-937782.jpg");
 	background-size: cover;
@@ -5,6 +11,7 @@ body {
 
 #title {
 	text-align: center;
-	font-size: 80px;
-	color: black;
+	font-family: Aileron-Light;
+	font-size: 60px;
+	color: white;
 }
