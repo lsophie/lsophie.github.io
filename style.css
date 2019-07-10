@@ -10,7 +10,7 @@ src: url("aileron/Aileron-Thin.otf");
 font-weight: normal;  
 }
 
-body {
+body.homepage {
 	background-image: url("./background-beach-clouds-937782.jpg");
 	background-size: cover;
 }
